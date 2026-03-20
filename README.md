@@ -15,3 +15,10 @@ TaskLane Kanban is a modern and responsive task management application built to 
 - **HTML**
 - **CSS**
 - **JavaScript**
+
+## Project Structure
+
+TaskLane-Kanban/
+│── index.html
+│── style.css
+│── backendScript.js
