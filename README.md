@@ -9,3 +9,9 @@ TaskLane Kanban is a modern and responsive task management application built to 
 - Organize tasks into **To Do**, **In Progress**, and **Done**
 - Store tasks in **local storage** so data remains saved in the browser
 - Responsive and user-friendly interface
+
+## Tech Stack
+
+- **HTML**
+- **CSS**
+- **JavaScript**
