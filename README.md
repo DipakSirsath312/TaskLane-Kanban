@@ -38,3 +38,17 @@ Tasks can be dragged and dropped into other columns as progress changes
 Users can delete tasks anytime
 
 Task data is stored in the browser using localStorage
+
+## Purpose of the Project
+
+This project was built to practice and improve skills in:
+
+DOM manipulation
+
+Drag-and-drop functionality
+
+Local storage handling
+
+Responsive UI design
+
+Frontend project structuring
