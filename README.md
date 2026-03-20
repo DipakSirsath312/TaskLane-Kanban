@@ -52,3 +52,7 @@ Local storage handling
 Responsive UI design
 
 Frontend project structuring
+
+# Author
+
+Dipak Sirsath
