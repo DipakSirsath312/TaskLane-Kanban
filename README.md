@@ -19,6 +19,22 @@ TaskLane Kanban is a modern and responsive task management application built to 
 ## Project Structure
 
 TaskLane-Kanban/
+
 │── index.html
+
 │── style.css
+
 │── backendScript.js
+
+
+## How It Works
+
+Users can create tasks by entering a title and description
+
+New tasks are added to the To Do column
+
+Tasks can be dragged and dropped into other columns as progress changes
+
+Users can delete tasks anytime
+
+Task data is stored in the browser using localStorage
